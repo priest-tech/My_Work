@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    color: black;
+}
+img{
+    /*border: 20% rgb(211, 35, 50);*/
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+}
+h3{
+    color: rgb(189, 62, 157);
+}
+a:hover{
+    color: rgb(189, 62, 157);
+}
